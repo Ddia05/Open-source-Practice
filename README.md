@@ -202,7 +202,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
 - ### **D**
   - [Dipesh Mittal](https://github.com/zeeno2616)
   - [Dishi Malviya](https://github.com/dishi890)
-  - [Diya Akshita](https://github.com/Ddia05)
+  - [Dia ](https://github.com/Ddia05)
 
 - ### **E**
   - 
